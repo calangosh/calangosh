@@ -1,8 +1,9 @@
 ## Olá sou Edson D.
 #### Bem vindo ao meu Perfil👾
-<!-- <abc>
+<h2 align="left">
   <img src="https://c.tenor.com/NwUe20_ngbcAAAAd/law-trafalger-d-water-law.gif" alt="law GIF" width="500">
-</abc> -->
+</h2>
+<img src="https://c.tenor.com/NwUe20_ngbcAAAAd/law-trafalger-d-water-law.gif" alt="law GIF" width="500">
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/edson_mayber/)](https://www.instagram.com/edson_mayber/) 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5598985015011?text=oi)](https://wa.me/5598985015011?text=oi)
 
