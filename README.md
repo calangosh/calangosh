@@ -1,5 +1,5 @@
-<!-- Hi, I'm Edson :wave:
-============== -->
+Hi, I'm Edson :wave:
+==============
 <br />
 I'm 19 years old Self-taught Front-end developer from Brazil.
 
