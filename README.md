@@ -1,6 +1,6 @@
 Hi, I'm Edson :wave:
 ==============
-<img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
+<img align="right" alt="GIF" height="300px" width="300px" src="./gif.gif" />
 <br />
 I'm 19 years old Self-taught Front-end developer from Brazil.
 
