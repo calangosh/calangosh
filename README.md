@@ -4,9 +4,9 @@ Hi, I'm Edson :wave:
 <br />
 I'm 19 years old Self-taught Front-end developer from Brazil.
 
-- 📚 Learning Javascript & Python.
+- 📚 Learning Javascript & ........
 
-- 🎯 <i>with Css, Html, Sass, Nodejs, React.....</i>
+- 🎯 <i>with Css, Html, Sass, Nodejs, Vue.....</i>
 
 - 🏴‍☠️ One Piece Fanboy.
 
