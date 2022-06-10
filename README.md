@@ -11,10 +11,3 @@ I'm 19 years old Self-taught Front-end developer from Brazil.
 
 - 📚 Favorite Book : The Hobbit
 <br />
-
-![Edson github stats](https://github-readme-stats.vercel.app/api?username=eddev000&show_icons=true&hide_border=true)
-
-
-<!-- <p class="center"> -->
-  > /👨🏻‍💻Readme Comming soon/
-<!--   </p> -->
