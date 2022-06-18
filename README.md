@@ -18,6 +18,7 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
 
 <img align="left" alt="GIF" height="100px" width="100px" src="./flor.gif" /><br/>
+<img align="right" alt="GIF" height="100px" width="100px" src="./butterfly.gif" /> <h1>End</h1>
 > <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
 <br/>
 
@@ -30,4 +31,6 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 </div>
 <div align="center">
   <img align="left" alt="GIF" height="100px" width="100px" src="./book.gif" /> <h1>End</h1>
+  <img align="center" alt="GIF" height="" width="70%" src="./footer.gif" />
 </div>
+
