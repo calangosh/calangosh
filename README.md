@@ -17,8 +17,10 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
 
- <img align="left" alt="GIF" height="100px" width="100px" src="./book.gif" />  > <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
+<img align="left" alt="GIF" height="100px" width="100px" src="./flor.gif" /><br/>
+> <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
 <br/>
+
 <div align="center">
 <h1>📚 Learning:</h1>
 
