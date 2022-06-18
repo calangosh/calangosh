@@ -17,7 +17,8 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
 
-> <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
+ <img align="left" alt="GIF" height="100px" width="100px" src="./book.gif" />  > <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
+<br/>
 <div align="center">
 <h1>📚 Learning:</h1>
 
@@ -26,6 +27,5 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=eddev000&hide=html&layout=compact=true&theme=radical)
 </div>
 <div align="center">
-  <h1>END</h1>
-  <img src="./BL0g1aq.gif" />
+  <img align="left" alt="GIF" height="100px" width="100px" src="./book.gif" /> <h1>End</h1>
 </div>
