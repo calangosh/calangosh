@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" height="300px" width="300px" src="./Axj8ig7.gif" /> Hi, I'm Edson :wave
+<img align="left" alt="GIF" height="100px" width="100px" src="./Axj8ig7.gif" /> Hi, I'm Edson :wave
 ==============
 <br />
 <br />
