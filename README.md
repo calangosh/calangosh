@@ -34,6 +34,6 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 </div>
 <div align="center">
   <img align="left" alt="GIF" height="50px" width="50px" src="./book.gif" /> <h1>End</h1>
-  <img align="center" alt="GIF" height="" width="100%" src="./footer.gif" />
+  <img align="center" alt="GIF" height="" width="100%" src="./.gif" />
 </div>
 
