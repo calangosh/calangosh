@@ -4,6 +4,7 @@
 <br />
 <br />
 <br />
+
 ```js
 let infoMe = {
   age : 19,
@@ -19,7 +20,7 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 
 <img align="left" alt="GIF" height="100px" width="100px" src="./flor.gif" /><br/>
 <img align="right" alt="GIF" height="40px" width="40px" src="./butterfly.gif" />
-> <i> Quem luta com monstros deve velar por que, ao fazê-lo, não se transforme também em monstro. E se tu olhares, durante muito tempo, para um abismo, o abismo também olha para dentro de ti.</i>
+> <i> É curioso como as cores do mundo real parecem muito mais reais quando vistas no cinema. O cinema não tem fronteiras nem limites. É um fluxo constante de sonho.</i>
 <br/>
 
 <div align="center">
