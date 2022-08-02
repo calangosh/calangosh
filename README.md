@@ -5,19 +5,21 @@
 <br />
 <br />
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
+[![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
+
+
 ```js
 let infoMe = {
   age : 19,
   city : 'São luiz MA',
   developer : 'Front-End'
 }
-let favoriteBooks = ['The Robbit', 'The lord of the rings']
-// Berserk Fanboy
 ```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
-[![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
 [![](https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Mayber/)
+[![](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5598985015011?text=HI)
 
 <img align="left" alt="GIF"  width="100px" src="./flor.gif" /><br/>
 <img align="right" alt="GIF" height="40px" width="40px" src="./butterfly.gif" />
