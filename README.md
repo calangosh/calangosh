@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" height="100px" width="100px" src="./Axj8ig7.gif" /> Hi, I'm Edson :wave
+<img align="left" alt="GIF" height="100px" width="100px" src="./Axj8ig7.gif" /> Hi, I'm Edson :wave:
 ==============
 <br />
 <br />
@@ -11,7 +11,7 @@ let infoMe = {
   city : 'São luiz MA',
   developer : 'Front-End'
 }
-let favoriteBooks = ['The Robbit', 'The lord of the rings']
+let favoriteBooks = ['The Hobbit', 'The lord of the rings']
 // Berserk Fanboy
 ```
 
