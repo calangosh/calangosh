@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" height="100px" width="100px" src="./Axj8ig7.gif" /> Hi, I'm Edson :wave
+<img align="left" alt="GIF" height="100px" width="100px" src="./Axj8ig7.gif" /> Hi, I'm Edson 🏹
 ==============
 <br />
 <br />
@@ -18,7 +18,7 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
 
-<img align="left" alt="GIF" height="100px" width="100px" src="./flor.gif" /><br/>
+<img align="left" alt="GIF" width="100px" src="./flor.gif" /><br/>
 <img align="right" alt="GIF" height="40px" width="40px" src="./butterfly.gif" />
 > <i> É curioso como as cores do mundo real parecem muito mais reais quando vistas no cinema. O cinema não tem fronteiras nem limites. É um fluxo constante de sonho.</i>
 <br/>
