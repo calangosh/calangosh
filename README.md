@@ -17,6 +17,7 @@ let favoriteBooks = ['The Robbit', 'The lord of the rings']
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
+[![](https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/Mayber/)
 
 <img align="left" alt="GIF"  width="100px" src="./flor.gif" /><br/>
 <img align="right" alt="GIF" height="40px" width="40px" src="./butterfly.gif" />
