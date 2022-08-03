@@ -8,6 +8,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eddev000&left_color=purple&right_color=red) 
 [![](https://img.shields.io/github/followers/eddev000?label=Follow&style=social)](https://github.com/eddev000)
+![](https://img.shields.io/github/watchers/eddev000/eddev000?label=Watch)
 
 
 ```js
