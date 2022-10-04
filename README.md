@@ -15,9 +15,13 @@
 
 <div align="center">
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vjgcapwajna68y8r09jxrsce8&cover_image=true&theme=novatorem&show_offline=false&bar_color=813d9c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddev000&hide=html&layout=compact=true&theme=radical" />
+</div>
+<div align="left">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vjgcapwajna68y8r09jxrsce8&cover_image=true&theme=novatorem&show_offline=false&bar_color=813d9c&bar_color_cover=true" />
 </div>
 <p align="center">
   <a href="https://ski">
