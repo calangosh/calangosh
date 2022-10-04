@@ -13,13 +13,13 @@
 - 🥁 Fun fact: I'm a virgin
 
 
-<div align="left">
+<div align="center">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vjgcapwajna68y8r09jxrsce8&cover_image=true&theme=novatorem&show_offline=false&bar_color=813d9c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 </div>
-<p align="left">
+<p align="center">
   <a href="https://ski">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,bash,linux,vim" />
   </a>
