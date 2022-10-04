@@ -1,5 +1,5 @@
 
-<img align="left" width="150px" src="./top_icon.gif"/> Hi, I'm Edson D. ✨ ![](https://img.shields.io/badge/stars%20⭐-1245-yellow) 
+<img align="left" width="150px" src="./top_icon.gif"/> Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow) 
 ==
 
 ![](https://komarev.com/ghpvc/?username=eddev000&color=blueviolet&style=for-the-badge)
