@@ -10,7 +10,7 @@
 
 - 🫀 I'm a Berserk fan                      
 - 🎯 I’m currently learning Javascript.....  
-- 🥁 Fun fact: I'm a virgin
+- 🥁 Fun fact: NaN
 
 
 <div align="center">
