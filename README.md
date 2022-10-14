@@ -4,7 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=eddev000&color=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <p align="center"> A psychopathic programmer, I like to do fun things like hack my friends' mom's cell phone and look for nudity! (I'm kidding)</p> 
 
 
