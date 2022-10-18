@@ -21,9 +21,7 @@ Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow)
 >You have power over your mind – not outside events. Realize this, and you will find strength.
     
 </div>
-<div align="center">
-    <img width="300px" src="https://letterboxdbadgefilm.vercel.app/?profile=mayber&theme=dark" />
-</div>
+
 
 
 
