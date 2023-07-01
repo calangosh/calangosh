@@ -23,7 +23,7 @@ Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow)
 </div>
 <p align="center">
   <a href="https://letterboxd.com/mayber" >
-    <img width="350" src="https://letterboxdbadgefilm.vercel.app/?profile=mayber&theme=dark" />
+    <img width="350" src="https://letterboxd-github-badge.vercel.app/badge?user=Mayber" />
   </a>
 </p>
 
