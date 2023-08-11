@@ -1,8 +1,7 @@
-Oi
 Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow) 
 ==
 
-<p align="center"> A psychopathic programmer, I like to do fun things like hack my friends' mom's cell phone and look for nudity! (I'm kidding)</p> 
+<p align="center"> A psychopathic programmer</p> 
 
 
 - 🫀 I'm a Berserk fan                      
