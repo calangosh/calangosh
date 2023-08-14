@@ -8,7 +8,7 @@ Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow)
 - 🎯 I’m currently learning Javascript.....  
 - 🥁 Fun fact: NaN
 - 🌱 Beginner in programming, studying every day to improve my skills <br/> and I also do fun things in my free time, to relax you know?.
-<p>
+<p align="center">
    <a href="" >
     <img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000" />
   </a>
