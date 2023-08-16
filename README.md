@@ -1,7 +1,7 @@
 Hi, I'm Edson D. ![](https://img.shields.io/badge/stars%20⭐-1245-yellow) 
 ==
 
-<p align="center"> <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Edson&weight=400&size=50&color=cyan"/></p> 
+<p align="center"> <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Edson&weight=400&size=50&color=#33bf2c"/></p> 
 <p align="center">
    <a href="" >
     <img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000" />
