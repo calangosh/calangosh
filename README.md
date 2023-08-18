@@ -7,7 +7,7 @@
 
 <p align="center">
    <a href="" >
-    <img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000" />
+    <img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000&font=Bricolage+Grotesque&weight=500" />
   </a>
 </p>
 
