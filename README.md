@@ -1,7 +1,7 @@
 
 <p align="center">
    <a href="" >
-    <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=Perfil+em+construção&weight=400&size=24&color=176fe3&width=340&height=65" />
+    <img width="100%" src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=Perfil+em+construção&weight=400&size=24&color=176fe3&width=340&height=65" />
   </a>
 </p>
 
