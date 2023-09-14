@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="" >
-    <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=DM+Sans&weight=600&theme=darkpink" />
+    <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=DM+Sans&weight=600" />
   </a>
 </p>
 
