@@ -1,6 +1,6 @@
 <p align="center">
    <a href="" >
-    <img src="https://custom-title-readme.vercel.app/custom-title?font=Chakra+Petch&text=👾+Hi+there!+I'm+Edson!&weight=400&size=34&color=EC53B0&width=999&height=65" />
+    <img src="https://custom-title-readme.vercel.app/custom-title?font=Chakra+Petch&text=👾+Hi+there!+I'm+Edson!&weight=400&size=45&color=EC53B0&width=455&height=65" />
   </a>
 </p>
 
