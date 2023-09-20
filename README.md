@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-   ✨ I am a simple human and a free programmer
+   🪽I am a simple human and a free programmer
 </h3>
 
 ---
