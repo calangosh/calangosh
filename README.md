@@ -1,6 +1,5 @@
 <p align="center">
    <a href="" >
-    <img width="60px" src="./GreenLezard_tgtowabot19.webp "/>
     <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Hi+there!+I'm+Edson!&weight=500&size=45&color=1B9C85&width=420&height=60" />
   </a>
 </p>
