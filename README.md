@@ -1,11 +1,9 @@
 <p align="center">
-    <img width="80px" src="./magic-lezard.svg" />
-    <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Hi+there!+I'm+Edson!&weight=500&size=45&color=1B9C85&width=420&height=60" />
+    <img align="center" width="80px" src="./magic-lezard.svg" />
+    <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Hi+there!+I'm+Edson!&weight=500&size=45&color=1B9C85&width=420&height=60" />
 </p>
 
-<h3 align="center">
-   🪽I am a simple human and a free programmer
-</h3>
+<p align="center">I am a simple human and a free programmer</p>
 
 ---
 
