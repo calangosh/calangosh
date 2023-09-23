@@ -3,7 +3,7 @@
     <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Hi+there!+I'm+Edson!&weight=500&size=45&color=1B9C85&width=420&height=60" />
 </p>
 
-<p align="center">I am a simple human and a free programmer</p>
+<p align="center">Às vezes gosto de programar como uma brincadeira . O único objetivo é fazer algo divertido e extravagante que não tenha nenhum propósito real, exceto talvez que eu possa compartilhar com amigos. </p>
 
 ---
 
