@@ -7,8 +7,14 @@
 
 ---
 
+| MY SKILLS:
+| ------------- 
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=JAVASCRIPT&weight=500&size=15&color=ffee00&width=98&height=20" />  
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=HTML&weight=500&size=15&color=ff4800&width=98&height=20" />  
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=CSS&weight=500&size=15&color=0095ff&width=98&height=20" />  
+
 - 🐣 <b>MY SKILLS:</b> HTML, CSS, JAVASCRIPT.
-- ⌛️ <b>CURRENTLY STUDYING:<b/> <br/><img align="left" src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=TYPESCRIPT&weight=500&size=15&color=337CCF&width=98&height=35" />
+- ⌛️ <b>CURRENTLY STUDYING:<b/> <br/><img align="left" src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=JAVASCRIPT&weight=500&size=15&color=337CCF&width=98&height=10" />
 <br/>
 
 <details>
