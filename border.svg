@@ -1,0 +1,24 @@
+<svg width="515px" height="2px" fill="#151F28" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="515px" height="2px">
+    <style>
+      .content
+      {
+        width: 512px;
+        height: 2px;
+        animation: animateBg 1s linear infinite;
+        background-image: linear-gradient(90deg,#26a269,#8ff0a4,#26a269,#8ff0a4);
+        background-size: 300% 100%;
+      }
+
+      @keyframes animateBg {
+        0% { background-position: 0% 0%; }
+        100% { background-position: 100% 0%; }
+      }
+    
+    </style>
+    <div class="content" xmlns="http://www.w3.org/1999/xhtml">
+      
+    </div>
+  </foreignObject>
+  
+</svg>
