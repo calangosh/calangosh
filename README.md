@@ -6,6 +6,7 @@
 <p align="center">Às vezes gosto de programar como uma brincadeira . O único objetivo é fazer algo divertido e extravagante que não tenha nenhum propósito real.</p>
 
 <img width="100%" src="./border.svg" />
+    
 
 | <img align="center" width="30px" src="./cat.svg" /> MY SKILLS: | <img align="center" width="30px" src="./time.svg" /> CURRENTLY STUDYING
 | ------------- | -------------                                                                               
