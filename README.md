@@ -3,9 +3,9 @@
     <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=Hi+there!+I'm+Edson!&weight=500&size=45&color=1B9C85&width=420&height=60" />
 </p>
 
-<p align="center">Às vezes gosto de programar como uma brincadeira . O único objetivo é fazer algo divertido e extravagante que não tenha nenhum propósito real, exceto talvez que eu possa compartilhar com amigos. </p>
+<p align="center">Às vezes gosto de programar como uma brincadeira . O único objetivo é fazer algo divertido e extravagante que não tenha nenhum propósito real.</p>
 
----
+<img width="100%" src="./border.svg" />
 
 | <img align="center" width="30px" src="./cat.svg" /> MY SKILLS: | <img align="center" width="30px" src="./time.svg" /> CURRENTLY STUDYING
 | ------------- | -------------                                                                               
