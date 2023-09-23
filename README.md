@@ -7,7 +7,7 @@
 
 ---
 
-| MY SKILLS: | CURRENTLY STUDYING
+| MY SKILLS: | <img src="./time.svg" /> CURRENTLY STUDYING
 | ------------- | -------------                                                                               
 | <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=JAVASCRIPT&weight=500&size=15&color=ffee00&width=98&height=20" />  | <img align="left" src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=TYPESCRIPT&weight=500&size=15&color=337CCF&width=98&height=27" />
 | <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=HTML&weight=500&size=15&color=ff4800&width=36&height=20" />  |
@@ -17,7 +17,7 @@
 <br/>
 
 <details>
-  <summary><b>📚 CURRENTLY READING</b></summary>
+  <summary><b align="center"><img width="30px" src="./book.svg" > CURRENTLY READING</b></summary>
   <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=DM+Sans&weight=600&theme=darkgreen" />
 </details>
 
