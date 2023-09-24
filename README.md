@@ -10,9 +10,9 @@
 
 | <img align="center" width="30px" src="./cat.svg" /> MY SKILLS: | <img align="center" width="30px" src="./time.svg" /> CURRENTLY STUDYING
 | ------------- | -------------                                                                               
-| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=JAVASCRIPT&weight=500&size=15&color=ffee00&width=98&height=20" />  | <img align="left" src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=TYPESCRIPT&weight=500&size=15&color=337CCF&width=98&height=27" />
-| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=HTML&weight=500&size=15&color=ff4800&width=36&height=20" />  |
-| <img src="https://custom-title-readme.vercel.app/custom-title?font=Fira+Code&text=CSS&weight=500&size=15&color=0095ff&width=28&height=20" />  |
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=JAVASCRIPT&weight=500&size=15&color=ffee00&width=98&height=20" />  | <img align="left" src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=TYPESCRIPT&weight=500&size=15&color=337CCF&width=98&height=27" />
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=HTML&weight=500&size=15&color=ff4800&width=36&height=20" />  |
+| <img src="https://custom-title-readme.vercel.app/custom-title?font=DM+Sans&text=CSS&weight=500&size=15&color=0095ff&width=28&height=20" />  |
 
 
 <br/>
