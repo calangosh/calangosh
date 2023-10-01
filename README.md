@@ -1,4 +1,4 @@
-<p align="center">
+<!--- <p align="center">
     <img align="center" width="80px" src="./magic-lezard.svg" />
     <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=Lilita+One&text=Hi+there!+I'm+Edson!&weight=400&size=32&color=1B9C85&width=420&height=60" />
 </p>
@@ -23,7 +23,7 @@
 </details>
 
 
-<!---<p align="center">
+<p align="center">
    <a href="" >
     <img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000&font=Bricolage+Grotesque&weight=500" />
   </a>
