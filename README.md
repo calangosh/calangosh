@@ -1,6 +1,6 @@
 <p align="center">
     <img align="center" width="80px" src="./magic-lezard.svg" />
-    <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=Lilita+One&text=Hi+there!+I'm+Edson!&weight=400&size=45&color=1B9C85&width=420&height=60" />
+    <img width="70%" align="center" src="https://custom-title-readme.vercel.app/custom-title?font=Lilita+One&text=Hi+there!+I'm+Edson!&size=45&color=1B9C85&width=420&height=60" />
 </p>
 
 <p align="center">Às vezes gosto de programar como uma brincadeira . O único objetivo é fazer algo divertido e extravagante que não tenha nenhum propósito real.</p>
