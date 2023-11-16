@@ -1,5 +1,5 @@
 <p align"center">
-  <img width="100px" src="./bg-top.svg" />
+  <img width="900px" src="./bg-top.svg" />
 </p>
 
 
