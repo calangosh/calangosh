@@ -11,7 +11,7 @@
         width: 512px;
         height: 1px;
         animation: animateBg 1s linear infinite;
-        background-image: linear-gradient(90deg,#26a269,#8ff0a4,#26a269,#8ff0a4);
+        background-image: linear-gradient(90deg,#7e3887,#7c89cc,#7e3887,#7c89cc);
         background-size: 300% 100%;
       }
 
