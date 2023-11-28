@@ -1,3 +1,8 @@
+I'm Edson and live in BraSil.
+
+* 👨‍💻 Self-taught
+* 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
+
 <img width="100%" src="./border.svg"/>
 <p align="left">
     <a href="" > 
