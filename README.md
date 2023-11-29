@@ -1,6 +1,10 @@
+<p align="right">
+    <img width="200px" src="./svgalert.svg" /><br/>
+</p>
 <p align="left">
     <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=I'm+Edson.&weight=400&size=42&color=733ba0&width=255&height=65" /><br/>
 </p>
+
 <p>Welcome to my GitHub profile!</p>
 
 * 👨‍💻 Self-taught
