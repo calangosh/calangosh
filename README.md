@@ -2,14 +2,17 @@
     <img width="200px" src="./svgalert.svg" /><br/>
 </p>
 <p align="left">
-    <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=I'm+Edson.&weight=400&size=42&color=733ba0&width=255&height=65" /><br/>
+    <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=733ba0&width=400&height=65" /><br/>
 </p>
 
-<p>Welcome to my GitHub profile!</p>
+<p>I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession</p>
 
 * 👨‍💻 Self-taught
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
 
+<p align="left">
+    <img width="450px" src="https://lastfm-widget-navy.vercel.app/lastfm-widget?username=Eddev000" /><br/>
+</p>
 <img width="100%" src="./border.svg"/>
 <p align="left">
     <a href="" > 
