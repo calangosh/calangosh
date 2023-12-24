@@ -1,6 +1,4 @@
-<p align="right">
-    <img width="200px" src="./svgalert.svg" /><br/>
-</p>
+
 <p align="left">
     <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=733ba0&width=400&height=65" /><br/>
 </p>
