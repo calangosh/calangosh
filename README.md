@@ -1,6 +1,6 @@
 
 <p align="left">
-    <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=#fff&width=400&height=65" /><br/>
+    <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=fff&width=400&height=65" /><br/>
 </p>
 
 <p>I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession.</p>
