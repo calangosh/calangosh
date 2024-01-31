@@ -7,6 +7,7 @@
 
 * 👨‍💻 Self-taught
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
+
 [![My Skills](https://skillicons.dev/icons?i=js, python,html,css,vim,nodejs,vue, typescript)](https://skillicons.dev)
 
 <p align="left">
