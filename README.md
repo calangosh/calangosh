@@ -9,7 +9,7 @@
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
 * 🦸 Ambition: FULL STACK WEB DEVELOPER 
 
-<img align="center" src="https://skillicons.dev/icons?i=js,python,html,css,vim,nodejs,vue,typescript"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,vim,nodejs,vue,typescript,bash"/>
 
 <p align="left">
     <img width="450px" src="https://lastfm-widget-navy.vercel.app/lastfm-widget?username=Eddev000" /><br/>
