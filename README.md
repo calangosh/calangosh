@@ -7,6 +7,7 @@
 
 * 👨‍💻 Self-taught
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
+
 *🦸 Ambition: FULL STACK WEB DEVELOPER 
 
 <img align="center" src="https://skillicons.dev/icons?i=js,python,html,css,vim,nodejs,vue,typescript"/>
