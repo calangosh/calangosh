@@ -1,3 +1,4 @@
+<table><tr><td valign="top" style="width: 50%;">
 
 <p align="left">
     <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=E53F71&width=400&height=65" /><br/>
@@ -7,17 +8,19 @@
 
 * 👨‍💻 Self-taught
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
-* 🦸 Ambition: FULL STACK WEB DEVELOPER 
+* 🦸 Ambition: **Fullstack web developer**
+</td>
+<td valign="top" style="width: 50%;">
+<a href="" > 
+<img  width="350px" src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=false" /> 
+</a>
+<img width="350px" src="https://lastfm-widget-navy.vercel.app/lastfm-widget?username=Eddev000" /><br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,vim,nodejs,vue,typescript,bash"/>
+</td></tr>
 
-<p align="left">
-    <img width="450px" src="https://lastfm-widget-navy.vercel.app/lastfm-widget?username=Eddev000" /><br/>
-</p>
+    
+</table>
+
 <img width="100%" src="./border.svg"/>
-<p align="left">
-    <a href="" > 
-     <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=false" /> 
-   </a>
- </p>
+
 
