@@ -1,5 +1,8 @@
 ```console
 edsond@github:~$ ./welcome.sh
+[*] fetching user info...ok
+[*] fetching goodreads info...ok
+[*] fetching letterboxd info...bad
 ```
 <p align="left">
     <img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=7F27FF&width=400&height=65" /><br/>
