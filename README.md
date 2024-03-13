@@ -18,5 +18,6 @@ In my world, there are no **limits**, no boundaries to stifle innovation. I embr
 
 <img width="100%" src="./border.svg"/>
 <img  width="450px" src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" /> 
+<img  width="450px" src="./test.svg" /> 
 
 
