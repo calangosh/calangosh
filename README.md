@@ -5,17 +5,12 @@
 <p>I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession.</p>
 
 * 👨‍💻 Self-taught
-* 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
+* 🕊️ Enthusiastic about **Movies**, **UI design**, **books** and **photography**
 * 🦸 Frontend Enginner
 
 In my world, there are no **limits**, no boundaries to stifle innovation. I embrace the chaos of creativity, finding beauty in the unexpected and elegance in simplicity. I am the architect of possibility, the harbinger of progress, and the embodiment of the true [JoyBoy](https://onepiece.fandom.com/pt/wiki/Joy_Boy). spirit in programming.
 
 <img width="100%" src="./border.svg"/>
-<table>
-    <tr>
-        <th><img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" /> 
-        <img src="https://letterboxd-github-profile.vercel.app/lbox?user=Mayber" /></th>
-    </tr>
-    
-</table>
+<img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" /> 
+<img src="https://letterboxd-github-profile.vercel.app/lbox?user=Mayber" />
 
