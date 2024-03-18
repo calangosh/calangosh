@@ -6,7 +6,7 @@
 
 * 👨‍💻 Self-taught
 * 🕊️ Enthusiastic about **Movies**, **Frontend**, **books** and **Math**
-* 🦸 Arquiteto de Software
+* 🦸 Frontend Enginner
 
 In my world, there are no **limits**, no boundaries to stifle innovation. I embrace the chaos of creativity, finding beauty in the unexpected and elegance in simplicity. I am the architect of possibility, the harbinger of progress, and the embodiment of the true [JoyBoy](https://onepiece.fandom.com/pt/wiki/Joy_Boy). spirit in programming.
 
