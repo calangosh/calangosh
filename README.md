@@ -12,7 +12,7 @@ In my world, there are no **limits**, no boundaries to stifle innovation. I embr
 
 <img width="100%" src="./border.svg"/>
 <p align="left">
-    <img src="https://letterboxd-github-profile.vercel.app/lbox?user=Mayber" /><br/>
+    <img src="https://letterboxd-github-profile.vercel.app/lbox?user=Zzapp" /><br/>
 </p>
 <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" /> 
 
