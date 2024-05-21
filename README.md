@@ -1,1 +1,1 @@
-<img src="https://custom-title-readme.vercel.app/custom-title?font=Poppins&text=My+name+is+Edson.&weight=400&size=42&color=7F27FF&width=400&height=65" />
+<img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" />
