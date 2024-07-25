@@ -1,2 +1,0 @@
-<img src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000%20&font=Bricolage+Grotesque&weight=500" />
-<img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&font=Poppins&weight=500&theme=darkpurple&topbar=true" />
