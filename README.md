@@ -3,6 +3,6 @@
 </p>
 <p align="left">
     <a href="" > 
-     <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&theme=darkpurple&font=Chakra+Petch&weight=500&topbar=false" /> 
+     <img src="https://goodreads-readme-card.vercel.app/api/currently-reading?user=156779971-edson-mayber&theme=darkpurple&font=Poppins&weight=500&topbar=false" /> 
    </a>
  </p>
