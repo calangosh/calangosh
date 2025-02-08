@@ -1,3 +1,4 @@
+<img src="./border.svg"/>
 <p align="left">
     <img width="450px" src="https://last-fm-badge.vercel.app/lastfm-badge?username=Eddev000%20&font=Bricolage+Grotesque&weight=500" />
 </p>
