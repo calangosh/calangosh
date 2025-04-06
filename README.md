@@ -1,4 +1,4 @@
-## AVISO: AINDA ARRUMANDO MEU PERFIL
+## <img src="https://cdn.discordapp.com/emojis/1352743737658183823.webp?size=256&animated=true" /> AVISO: AINDA ARRUMANDO MEU PERFIL
  
 <img width="100%" src="./border.svg" /> 
   
